@@ -187,5 +187,10 @@ namespace TP_Sockets
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox6.Clear();
+        }
     }
 }
