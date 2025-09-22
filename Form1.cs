@@ -192,5 +192,10 @@ namespace TP_Sockets
         {
             textBox6.Clear();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

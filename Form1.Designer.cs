@@ -125,6 +125,7 @@
             this.label4.Size = new System.Drawing.Size(31, 13);
             this.label4.TabIndex = 11;
             this.label4.Text = "IPeD";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // textBox5
             // 
